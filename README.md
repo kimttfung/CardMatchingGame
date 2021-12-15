@@ -1,5 +1,8 @@
 # Matching Game in Java!
 
-<img src="interface.png" width="30%" height="30%">
+<p float="left">
+  <img src="interface.png" width="30%" height="30%">
+  <img src="interface2.png" width="30%" height="30%">
+</p>
 
-<img src="interface2.png" width="30%" height="30%">
+
